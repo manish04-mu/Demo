@@ -5,4 +5,4 @@
 * Doxygen comments to generate a code documentation
 
 # Solutions 
-* Name -link
+* Solution by [Ankit Kumar](https://github.com/AnkitDhiman2/Calculator)
