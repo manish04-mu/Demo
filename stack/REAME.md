@@ -5,4 +5,4 @@
 * Doxygen comments to generate a code documentation
 
 ## Solutions
-* Solution by : Your name and link in MDFILE syntax
+* Solution by : [Athul Thomas](https://github.com/thomasathul/Stack)
