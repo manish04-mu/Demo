@@ -6,3 +6,4 @@
 
 # Solutions 
 * Solution by [Ankit Kumar](https://github.com/AnkitDhiman2/Calculator)
+* Solution by [Athul Thomas](https://github.com/thomasathul/Complex-Calculator)
