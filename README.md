@@ -4,12 +4,12 @@
 This projects aims at designing a Cycle Rental System to rent Cycles at hourly, daily, weekly basis.
 
 ## Objectives :-
-1.To develop a platform to rent cycles.
-2.Requirement/feature identification
-3.Presenting the design using visualisation tools.
-4.Implementing the project in python language.
-5.Making the code more efficient, clean and portable.
-7.Testing the code using pytest and pylint.
+* To develop a platform to rent cycles.
+* Requirement/feature identification
+* Presenting the design using visualisation tools.
+* Implementing the project in python language.
+* Making the code more efficient, clean and portable.
+* Testing the code using pytest and pylint.
 
 ## Features:-
 ### The customer can:
