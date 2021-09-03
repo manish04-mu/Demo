@@ -38,15 +38,15 @@ This projects aims at designing a Cycle Rental System to rent Cycles at hourly, 
 
 ## 4W and 1H:-
 
-## When –
+## When
 * Anytime by anyone who want to cycle around, Excercise.
-## What –
+## What
 * PLatform to rent Cycle and park it anywhere as long as it is rented.
-## Where – 
+## Where
 * Anywhere with any Operating System Platform.
-## Who –
+## Who
 * Anybody can use this application.
-## How –
+## How
 * The user has to rent the Cycle and based on the time it is rented a bill is generated.
 
 
